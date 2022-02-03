@@ -1,5 +1,5 @@
 🙋‍♂️ Hi, I’m @ervinsapinis. I am a determined software developer currently and primarily focusing on C# and .NET oriented programming.
-The passion for programming for me comes from it always being familiar, yet never the same.
+The passion for programming for me comes from it always being familiar in different tasks, yet never the same.
 
 Looking forward to hear from you on 📫:
 Email: larmantine@gmail.com
