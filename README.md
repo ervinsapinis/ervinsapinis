@@ -16,7 +16,7 @@ Unit Testing
 TypeScript 
 JavaScript
 Test Driven Development
-SOLID
+Clean Code, SOLID
 Design Patterns
 HTML & CSS, VueJS, NodeJS basics
 
