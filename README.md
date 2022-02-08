@@ -22,6 +22,6 @@ Current skillset:
 
 Current projects:
 
-[BomberMan Clone](https://github.com/ervinsapinis/bomberman-clone) (Unity2D, C#)
+[BomberMan Clone](https://github.com/ervinsapinis/bomberman-clone) (Unity2D, C#) 💣
 
-[FlightPlanner](https://github.com/ervinsapinis/flight-planner) (C#, ASP.NET Core Web API, SQL)
+[FlightPlanner](https://github.com/ervinsapinis/flight-planner) (C#, ASP.NET Core Web API, SQL) ✈️
