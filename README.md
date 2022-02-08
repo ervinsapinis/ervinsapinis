@@ -7,21 +7,21 @@ LinkedIn: https://www.linkedin.com/in/ervins-apinis/
 
 Current skillset: 
 
-Git
-C#
-.NET
-Relational Databases & SQL
-HTTP & Web API Basics
-Unit Testing
-TypeScript 
-JavaScript
-Test Driven Development
-Clean Code, SOLID
-Design Patterns
-HTML & CSS, VueJS, NodeJS basics
+- Git
+- C#
+- .NET
+- Relational Databases & SQL
+- HTTP & Web API Basics
+- Unit Testing
+- TypeScript 
+- JavaScript
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, VueJS, NodeJS basics
 
 Current projects:
 
-BomberMan Clone (Unity2D, C#): 
+[BomberMan Clone](https://github.com/ervinsapinis/bomberman-clone) (Unity2D, C#)
 
-FlightPlanner (C#, ASP.NET Core Web API, SQL):
+[FlightPlanner](https://github.com/ervinsapinis/flight-planner) (C#, ASP.NET Core Web API, SQL)
