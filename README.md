@@ -18,7 +18,7 @@ Current skillset:
 - Test Driven Development
 - Clean Code, SOLID
 - Design Patterns
-- HTML & CSS, VueJS, NodeJS basics
+- HTML & CSS, Angular, NodeJS basics
 
 Current projects:
 
