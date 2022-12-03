@@ -10,7 +10,7 @@ Current skillset:
 - Git
 - C#
 - .NET
-- Relational Databases & SQL
+- Relational Databases & SQL / MongoDB
 - HTTP & Web API Basics
 - Unit Testing
 - TypeScript 
@@ -19,6 +19,8 @@ Current skillset:
 - Clean Code, SOLID
 - Design Patterns
 - HTML & CSS, Angular, NodeJS basics
+- jQuery
+- ElasticSearch
 
 Current projects:
 
